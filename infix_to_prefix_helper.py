@@ -46,8 +46,6 @@ def infix_to_prefix_helper(astring):
     return stringlist[::-1]
 
 
-# note: this file is explained in detail here
-#https://fengtantaedu.sharepoint.com/sites/datastructureteam562/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20231110_200339-Meeting%20Recording.mp4?web=1
 
 
 # next file => ./prefix_evalustion.py
