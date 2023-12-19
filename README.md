@@ -5,6 +5,6 @@ An expression is called  prefix expression -->> if the operator appears in the e
 To convert Infix to Prefix expression, computers usually use the stack data structure.
 1. Reverse the infix expression.
 
-2.Obtain the “nearly” postfix expression of the modified expression .
+ 2.Obtain the “nearly” postfix expression of the modified expression .
 
 3. Reverse the postfix expression.
