@@ -20,6 +20,5 @@ def domath(operator,op1,op2=0):# takes operator and operands then returns the re
         return "math error"
     
     ## stack.py and validitychecker.py are standard and self explanatory
-    ## check the lecture if u want to understand them
     
     ### end of documentation
