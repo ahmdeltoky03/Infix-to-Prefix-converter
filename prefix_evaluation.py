@@ -59,6 +59,3 @@ if __name__ == "__main__":
     print(prefixEvaluation(prefix))
     print(prefixEvaluation("****+54321*+21**321"))
 
-# Two - char number (Sanad, works but spaces are broken)
-# brackets inversion (done inline)
-# gui (done ahmed adel)
