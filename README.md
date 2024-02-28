@@ -14,7 +14,7 @@ The process of converting an infix expression to a prefix expression typically i
 
 ## Overview of the Prefix Expression Evaluator Project
 
-This project is a Prefix Expression Evaluator, which is designed to convert infix expressions to prefix expressions and evaluate them. Here's a brief overview of the main components:
+Here's a brief overview of the main components:
 
 - `application.py`: This is the main file of the application. It sets up the system path for dependency packages and runs the `window` module as the parent. It's the entry point of your application. The code in this file looks something like this:
 
