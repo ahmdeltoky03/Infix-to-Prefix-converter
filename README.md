@@ -26,7 +26,7 @@ if __name__ == "__main__":
     window.run()
 ```
 
-- `domath.py`: This file contains functions or classes related to mathematical operations. For example, it might contain a simple function like this:
+- `domath.py`: This file contains functions or classes related to mathematical operations. For example, it contains a simple function like this:
 
 ```python
 # domath.py
