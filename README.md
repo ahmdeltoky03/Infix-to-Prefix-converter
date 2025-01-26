@@ -55,6 +55,6 @@ class Stack:
         return self.items.pop()
 ```
 
-- `ValidityChecker.py`: it contains a function that checks whether a given expression is a valid infix expression.
+- `ValidityChecker.py`: This file contains a function that checks whether a given expression is a valid infix expression.
 
 - `window.py`: This file contains the main body of your application's GUI. It uses the `customtkinter` library to render the GUI and listen for user interactions. It also contains a function that takes values from a textbox, converts the infix expression to a prefix expression, evaluates the prefix expression, and updates the output label with the result.
